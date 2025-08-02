@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.vs/
+
+# Neo4j
+data/
+logs/
+import/
+plugins/
+neo4j.conf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.env.local
+.env.development
+.env.test
+.env.production
